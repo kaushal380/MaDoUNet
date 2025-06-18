@@ -10,7 +10,10 @@ Experimental results demonstrate that MaDoUNet achieves consistent improvements 
 
 The proposed **MaDoUNet** employs a dual-encoder structure combining **EfficientNetB4** and **DenseNet121**. It incorporates depthwise transformer blocks and a custom **VSS-Mamba** module to enhance both global and local feature representation.
 
-![MaDoUNet Architecture](media\architectureDiagram.png)
+
+<p align="center">
+  <img src="media\architectureDiagram.png" alt="MaDoUNet Architecture" width="700"/>
+</p>
 
 ## 📊 Results
 
