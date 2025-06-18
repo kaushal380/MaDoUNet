@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Exclude everything inside __pycache__ folders at all levels
+**/__pycache__/
+
+# Exclude contents inside results action folders but keep the folders
+results/train_results/*/*
+results/test_results/*/*
+results/inference_results/*/*
+results/visualization_results/*/*
+
+# Jupyter Notebook Checkpoints (in case you use notebooks later)
+.ipynb_checkpoints/
+
+# Environment & dependency folders
+.env/
+.venv/
+env/
+venv/
+
+# Logs and debug
+*.log
+*.csv
+*.pth
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
