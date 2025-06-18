@@ -1,0 +1,29 @@
+# Core deep learning libraries
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
+
+# Image models (EfficientNet, etc.)
+timm
+
+# Evaluation metrics
+torchmetrics==1.3.2
+
+# Image processing and numerical operations
+opencv-python
+Pillow
+numpy
+
+# CLI and training utilities
+tqdm
+argparse
+
+# Plotting
+matplotlib
+
+# Optional: CSV logging and analysis
+pandas
+
+# If any metric calls use HuggingFace's BERT or tokenizers
+transformers>=4.41.0
+tokenizers>=0.19,<0.20
