@@ -162,7 +162,7 @@ Feel free to explore or modify the pipeline via `main.py` for different use-case
 We gratefully acknowledge the following contributors:
 
 - **Kaushal Sambanna** — Lead Researcher & Developer  
-- **Sanjana Jhansi Ganji** — Dataset Preparation, Evaluation Support  
+- **Sanjana Jhansi Ganji** — Researcher, Dataset Preparation, Evaluation Support  
 - **Srikanth Panigrahi** — Academic Guidance
 - **Routhu Srinivasa Rao** - Guide
 
