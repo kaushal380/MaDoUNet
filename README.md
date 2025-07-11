@@ -181,7 +181,7 @@ You are free to use, modify, and distribute this software with attribution.
 
 For queries, collaborations, or feedback:
 
-- 📧 **Email:** [kaushal.sambanna@gmail.com]  
+- 📧 **Email:** kaushal.sambanna@gmail.com, sanjanajhansi99@gmail.com
 - 🧠 **LinkedIn:** [linkedin.com/in/kaushal-sambanna](https://www.linkedin.com/in/kaushal-sambanna-92b74a360/)  
 - 💻 **GitHub Issues:** [Submit an issue](https://github.com/kaushal380/MaDoUNet/issues)
 
